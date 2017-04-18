@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><i>SMS Portal</i></string>
+    <string name="action_settings">Logout</string>
+    <string name="emptyString" />
+</resources>

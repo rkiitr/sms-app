@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jiochat.logger_app.MainActivity">
+
+    <item android:id="@+id/view_profile"
+        android:title="View Profile"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/add_fnds"
+        android:title="Add Friends"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/edit_profile"
+        android:title="Edit Profile"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
